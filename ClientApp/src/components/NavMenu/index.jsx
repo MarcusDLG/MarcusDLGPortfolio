@@ -54,12 +54,12 @@ export class NavMenu extends Component {
                 </NavItem>
                 <NavItem>
                   <NavLink tag={Link} className="text-dark" to="/counter">
-                    Counter
+                    Projects
                   </NavLink>
                 </NavItem>
                 <NavItem>
                   <NavLink tag={Link} className="text-dark" to="/typescript">
-                    Typescript
+                    Courses
                   </NavLink>
                 </NavItem>
               </ul>
